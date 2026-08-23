@@ -1,0 +1,42 @@
+name: Update rental listings
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+      timezone: "Asia/Kolkata"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guwahati-rent-update
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - name: Scrape public listings
+        run: npm run scrape
+        env:
+          FACEBOOK_STORAGE_STATE_BASE64: ${{ secrets.FACEBOOK_STORAGE_STATE_BASE64 }}
+          MAX_LISTINGS_PER_SOURCE: "35"
+      - name: Commit changed data
+        run: |
+          if git diff --quiet -- public/listings.json; then
+            echo "No listing changes"
+            exit 0
+          fi
+          git config user.name "guwahati-rent-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/listings.json
+          git commit -m "data: refresh Guwahati rentals"
+          git push

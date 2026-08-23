@@ -1,0 +1,17 @@
+{
+  "name": "guwahati-rent-autoupdater",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/index.mjs",
+    "serve": "npx serve public",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

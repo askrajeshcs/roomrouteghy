@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>RoomRoute Guwahati</title>
+  <meta name="description" content="Automatically updated public room-rental listings across Guwahati.">
+  <link rel="preconnect" href="https://unpkg.com"><link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header><a class="brand" href="#">⌂ <span>RoomRoute <small>Guwahati</small></span></a><span class="status" id="status">Loading latest rooms…</span></header>
+  <main>
+    <section class="intro"><div><p class="eyebrow">ROOMS ACROSS GUWAHATI · ONE MAP</p><h1>Find a room where<br><em>your life happens.</em></h1></div><p>Automatically refreshed public listings from OLX, Housing.com, Facebook, Bricklet and 99acres.</p></section>
+    <section class="filters" aria-label="Filters">
+      <label class="search">⌕ <input id="query" placeholder="Search locality or room type"></label>
+      <label><span>Source</span><select id="source"><option>All sources</option><option>OLX</option><option>Housing.com</option><option>Bricklet</option><option>99acres</option><option>Facebook</option></select></label>
+      <label><span>Maximum rent <b id="rentValue">₹25,000</b></span><input id="rent" type="range" min="3000" max="50000" step="1000" value="25000"></label>
+      <div class="count"><strong id="count">0</strong><span>places found</span></div>
+    </section>
+    <section class="workspace"><div id="map" aria-label="Rental map"></div><aside id="details"><div class="empty">Select a map marker or listing.</div></aside></section>
+    <section class="list"><div class="list-head"><div><p class="eyebrow">LIVE SHORTLIST</p><h2>Rental listings</h2></div><p>Open a card to locate it on the map.</p></div><div id="cards" class="cards"></div></section>
+  </main>
+  <footer><b>RoomRoute Guwahati</b><p>Always verify the room, owner, price and availability before paying. Never transfer a deposit before visiting and completing due diligence.</p></footer>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
