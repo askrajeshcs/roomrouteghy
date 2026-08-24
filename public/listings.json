@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:43:28.834Z",
+  "updatedAt": "2026-08-24T09:32:37.901Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,27 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 15,
+  "listingCount": 16,
   "listings": [
+    {
+      "id": "c1ded9c4883558",
+      "title": "Apartment for rent at milanpur",
+      "area": "Chandmari",
+      "rent": 12000,
+      "rooms": "2 BHK",
+      "bath": "1 bath",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/apartment-for-rent-at-milanpur-1727",
+      "phone": "",
+      "lat": 26.1836,
+      "lng": 91.7794,
+      "note": "Apartment for rent at milanpur Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free Home / Properties / Apartment for rent at milanpur Apartment for rent at milanpur Milanpur Chandmari, Guwahati, - Family Homes Price ₹12,000 1200",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-08-24T09:30:14.067Z",
+      "lastSeen": "2026-08-24T09:32:37.901Z"
+    },
     {
       "id": "a6dfdc5476c220",
       "title": "WhatsApp",
