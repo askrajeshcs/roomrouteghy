@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:18:03.042Z",
+  "updatedAt": "2026-09-07T07:01:01.534Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,46 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 18,
+  "listingCount": 20,
   "listings": [
+    {
+      "id": "fe999f3cd3e956",
+      "title": "1RK available for rent",
+      "area": "Lal Ganesh",
+      "rent": 13000,
+      "rooms": "1 RK",
+      "bath": "Ask owner",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/1rk-available-for-rent-1751",
+      "phone": "",
+      "lat": 26.1362,
+      "lng": 91.741,
+      "note": "1RK available for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free Home / Properties / 1RK available for rent 1RK available for rent Lal Ganesh, Guwahati, - 💼 Working Professionals Price ₹13,000 Per Month Type owner Sta",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-09-07T06:58:08.299Z",
+      "lastSeen": "2026-09-07T07:01:01.534Z"
+    },
+    {
+      "id": "6935c6be8cab4f",
+      "title": "1bhk room available for rent",
+      "area": "Jalukbari",
+      "rent": 12000,
+      "rooms": "1 BHK",
+      "bath": "Ask owner",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/1bhk-room-available-for-rent-1752",
+      "phone": "",
+      "lat": 26.1445,
+      "lng": 91.6808,
+      "note": "1bhk room available for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free Home / Properties / 1bhk room available for rent 1bhk room available for rent jalukbari, Guwahati, - 💼 Working Professionals Family Homes Price ₹1",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-09-07T06:58:07.259Z",
+      "lastSeen": "2026-09-07T07:01:01.534Z"
+    },
     {
       "id": "480f7c5afbf848",
       "title": "2 Bhk for Rent",
