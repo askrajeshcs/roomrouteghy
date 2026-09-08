@@ -1,14 +1,33 @@
 {
-  "updatedAt": "2026-09-08T07:18:32.447Z",
+  "updatedAt": "2026-09-08T13:19:09.181Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
-    "Bricklet": 10,
+    "Bricklet": 8,
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 22,
+  "listingCount": 23,
   "listings": [
+    {
+      "id": "9fe7776a99501f",
+      "title": "2BHK for rent",
+      "area": "Noonmati",
+      "rent": 11500,
+      "rooms": "2 BHK",
+      "bath": "Ask owner",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/2bhk-for-rent-1764",
+      "phone": "",
+      "lat": 26.1977,
+      "lng": 91.8026,
+      "note": "2BHK for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free Home / Properties / 2BHK for rent 2BHK for rent Noonmati, Guwahati, - Family Homes Price ₹11,500 Type owner Status 2 bhk LDI Score: N/A PVI Score: N/A Overview Co",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-09-08T12:57:59.182Z",
+      "lastSeen": "2026-09-08T13:19:09.181Z"
+    },
     {
       "id": "b6c499ce1a9b89",
       "title": "1 RK for rent",
