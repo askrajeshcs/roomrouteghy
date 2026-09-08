@@ -1,14 +1,33 @@
 {
-  "updatedAt": "2026-09-08T01:00:26.451Z",
+  "updatedAt": "2026-09-08T07:18:32.447Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
-    "Bricklet": 8,
+    "Bricklet": 10,
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 21,
+  "listingCount": 22,
   "listings": [
+    {
+      "id": "b6c499ce1a9b89",
+      "title": "1 RK for rent",
+      "area": "Beltola",
+      "rent": 12000,
+      "rooms": "1 RK",
+      "bath": "Ask owner",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/1-rk-for-rent-1758",
+      "phone": "",
+      "lat": 26.1198,
+      "lng": 91.8037,
+      "note": "1 RK for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free Home / Properties / 1 RK for rent 1 RK for rent Beltola, Guwahati, - 💼 Working Professionals Bachelors Allowed Price ₹12,000 Per Month Type owner Status LDI Scor",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-09-08T06:57:25.604Z",
+      "lastSeen": "2026-09-08T07:18:32.447Z"
+    },
     {
       "id": "a583798a7e6950",
       "title": "Room available for rent",
