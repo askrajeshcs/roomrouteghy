@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:25:54.985Z",
+  "updatedAt": "2026-10-26T14:00:36.229Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,46 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 45,
+  "listingCount": 47,
   "listings": [
+    {
+      "id": "a6e3e97e482bdb",
+      "title": "3bhk for rent",
+      "area": "Kahilipara",
+      "rent": 32000,
+      "rooms": "3 BHK",
+      "bath": "3 baths",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/3bhk-for-rent-1908",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "3bhk for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free 3bhk for rent (3bhhk) by khokan sarkar · Guwahati ₹32,000 monthly Rent Owner Property Contact Owner ◀ ▶ Owner & Location Owner: khokan sarkar Location: tarun naga",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-10-26T13:54:30.184Z",
+      "lastSeen": "2026-10-26T14:00:36.229Z"
+    },
+    {
+      "id": "634a3d99e0e936",
+      "title": "3 BHK apartment at Tarun Nagar 2nd Byelane, ABC bus stop, Guwahati",
+      "area": "Kahilipara",
+      "rent": 20000,
+      "rooms": "3 BHK",
+      "bath": "3 baths",
+      "size": "1200 sq ft",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/3-bhk-apartment-at-tarun-nagar-2nd-byelane-abc-bus-stop-guwahati-1909",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "3 BHK apartment at Tarun Nagar 2nd Byelane, ABC bus stop, Guwahati Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free 3 BHK apartment at Tarun Nagar 2nd Byelane, ABC bus stop, Guwahati (3 BHK) by Anuja Gupta Dutta · Guwahati ₹2",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-10-26T13:54:29.118Z",
+      "lastSeen": "2026-10-26T14:00:36.229Z"
+    },
     {
       "id": "5123e6f9dc709a",
       "title": "3 single room for rent",
