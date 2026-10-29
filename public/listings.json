@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:40:17.091Z",
+  "updatedAt": "2026-10-29T23:10:06.299Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,27 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 53,
+  "listingCount": 54,
   "listings": [
+    {
+      "id": "ba0fb3da1ff10d",
+      "title": "3 single room for rent",
+      "area": "Gandhi Basti",
+      "rent": 3000,
+      "rooms": "2 RK",
+      "bath": "Ask owner",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/3-single-room-for-rent-1920",
+      "phone": "",
+      "lat": 26.1832,
+      "lng": 91.7647,
+      "note": "3 single room for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free 3 single room for rent (3 Single Room) by J Barman · Guwahati ₹3,000 Monthly Rent Owner Property Bachelors Allowed Contact Owner ◀ ▶ Owner & Location Own",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-10-29T23:04:00.322Z",
+      "lastSeen": "2026-10-29T23:10:06.299Z"
+    },
     {
       "id": "92198c0b79aee6",
       "title": "1bhk for rent",
