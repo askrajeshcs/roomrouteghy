@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:26:26.280Z",
+  "updatedAt": "2026-11-04T07:10:31.724Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,27 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 67,
+  "listingCount": 68,
   "listings": [
+    {
+      "id": "95550f199aa0ee",
+      "title": "2 single room for rent",
+      "area": "Kahilipara",
+      "rent": 8000,
+      "rooms": "2 BHK",
+      "bath": "2 baths",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/2-single-room-for-rent-1956",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "2 single room for rent Home For Buyers For Tenants For Sellers Solutions Login Register Post Property Free 2 single room for rent (2 Single Room) by Minakshi Debi · Guwahati ₹8,000 Monthly Rent Owner Property Approval: BRK-R-1956 Contact Owner ◀ ▶ Owner & Loca",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-11-04T07:04:25.907Z",
+      "lastSeen": "2026-11-04T07:10:31.724Z"
+    },
     {
       "id": "e29e2c99b408c0",
       "title": "2RK for rent",
