@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:29:23.682Z",
+  "updatedAt": "2026-11-27T21:45:06.515Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,46 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 125,
+  "listingCount": 127,
   "listings": [
+    {
+      "id": "79c938db08d88b",
+      "title": "1 single room for rent",
+      "area": "Kahilipara",
+      "rent": 8000,
+      "rooms": "1 RK",
+      "bath": "1 bath",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/1-single-room-for-rent-2042",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "1 single room for rent Home For Buyers For Tenants For Sellers Solutions Use the app Login Register Post Property Free DIRECT OWNER CONNECT Looking for the Owner's Direct Number? Your details are safe with Bricklet. We don't sell your contact information to br",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-11-27T21:44:39.722Z",
+      "lastSeen": "2026-11-27T21:45:06.515Z"
+    },
+    {
+      "id": "b3ba7c58ee5b7a",
+      "title": "1RK for rent",
+      "area": "Kahilipara",
+      "rent": 5000,
+      "rooms": "1 RK",
+      "bath": "1 bath",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/1rk-for-rent-2059",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "1RK for rent Home For Buyers For Tenants For Sellers Solutions Use the app Login Register Post Property Free DIRECT OWNER CONNECT Looking for the Owner's Direct Number? Your details are safe with Bricklet. We don't sell your contact information to brokers or t",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-11-27T21:44:08.140Z",
+      "lastSeen": "2026-11-27T21:45:06.515Z"
+    },
     {
       "id": "3fb7c192a4bb69",
       "title": "2BHK for rent",
