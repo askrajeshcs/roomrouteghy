@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:50:48.994Z",
+  "updatedAt": "2026-11-28T20:58:56.414Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,27 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 128,
+  "listingCount": 129,
   "listings": [
+    {
+      "id": "dd24dec4064624",
+      "title": "2BHK for rent",
+      "area": "Kahilipara",
+      "rent": 25000,
+      "rooms": "2 BHK",
+      "bath": "2 baths",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/2bhk-for-rent-2071",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "2BHK for rent Home For Buyers For Tenants For Sellers Solutions Use the app Login Register Post Property Free DIRECT OWNER CONNECT Looking for the Owner's Direct Number? Your details are safe with Bricklet. We don't sell your contact information to brokers or ",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-11-28T20:40:43.508Z",
+      "lastSeen": "2026-11-28T20:58:56.414Z"
+    },
     {
       "id": "f0e94425d9a4c2",
       "title": "1bhk for rent",
