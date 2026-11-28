@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:45:06.515Z",
+  "updatedAt": "2026-11-28T08:50:48.994Z",
   "sourceStatus": {
     "OLX": 0,
     "Housing.com": 0,
@@ -7,8 +7,27 @@
     "99acres": 0,
     "Facebook": 0
   },
-  "listingCount": 127,
+  "listingCount": 128,
   "listings": [
+    {
+      "id": "f0e94425d9a4c2",
+      "title": "1bhk for rent",
+      "area": "Kahilipara",
+      "rent": 10000,
+      "rooms": "1 BHK",
+      "bath": "1 bath",
+      "size": "",
+      "source": "Bricklet",
+      "sourceUrl": "https://bricklet.in/property/1bhk-for-rent-2062",
+      "phone": "",
+      "lat": 26.1287,
+      "lng": 91.7529,
+      "note": "1bhk for rent Home For Buyers For Tenants For Sellers Solutions Use the app Login Register Post Property Free DIRECT OWNER CONNECT Looking for the Owner's Direct Number? Your details are safe with Bricklet. We don't sell your contact information to brokers or ",
+      "posted": "Recently listed",
+      "status": "available",
+      "firstSeen": "2026-11-28T08:32:50.353Z",
+      "lastSeen": "2026-11-28T08:50:48.994Z"
+    },
     {
       "id": "79c938db08d88b",
       "title": "1 single room for rent",
